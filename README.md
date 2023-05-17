@@ -79,5 +79,5 @@
 > Тема: Разрабока микро-ЭВМ на ПЛИС
 ---------------
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lipki3&theme=solarized_light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lipki3&theme=solarized_dark)
 
