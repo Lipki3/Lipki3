@@ -1,4 +1,10 @@
-### Hi there 👋
+### 1 семестр
+> [Основы алгоритмизации и программирования (ОАиП)](https://github.com/Lipki3/OAIP)
+### 2 семестр
+### 3 семестр
+### 4 семестр
+### 5 семестр
+### 6 семестр
 
 <!--
 **Lipki3/Lipki3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
