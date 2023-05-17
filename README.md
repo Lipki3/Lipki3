@@ -4,7 +4,7 @@
 #### 1-й семестр
 - [Основы алгоритмизации и программирования (ОАиП)](https://github.com/Lipki3/OAIP)
 
-- <font color="#red">Физика</font> 
+- Физика 
 ----------
 #### 2-й семестр
 - [Основы алгоритмизации и программирования (ОАиП)](https://github.com/Lipki3/OAIP)
@@ -78,3 +78,7 @@
 > 
 > Тема: Разрабока микро-ЭВМ на ПЛИС
 ---------------
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lipki3&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lipki3&theme=solarized_dark)
